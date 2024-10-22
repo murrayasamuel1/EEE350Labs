@@ -1,0 +1,1 @@
+-w -d C:/My_Designs/EEE350/Lab1/compile -s C:/My_Designs/EEE350/library.cfg -j C:/My_Designs/EEE350/Lab1/projlib.cfg -work lab0 -O3 -e 100 -work lab0 -2002 C:/My_Designs/EEE350/Lab1/src/counter.vhd 

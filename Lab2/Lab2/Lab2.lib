@@ -1,0 +1,46 @@
+timestamp=1728393815537
+
+[~A]
+ModifyID=28
+Version=74
+
+[~MFT]
+0=4|0Lab2.mgf|20736|17101
+1=4|1Lab2.mgf|46581|43983
+3=2|3Lab2.mgf|7415|6967
+
+[fa]
+A/dataflow_1=21|../src/fa_dataflow_1.vhd|14|1*41771
+BinW64/dataflow_1=3*6967
+I=0*519
+I/dataflow_1=0*19809
+M=11|2|vf5|1728391200202|../src/fa_dataflow_1.vhd|0*178*0xe36d6969a88b5464539cdebc80424d8044bb95f9|0*439*0x23b75c12e3e89f2ef000564498faa8c2
+M/dataflow_1=21|2|vf5|1728393812436|../src/fa_dataflow_1.vhd|0*19497*0x44bd23af10c4a641fc189362bdb4bb691356aa64|0*19715*0x20116f55b147878295aeff36dce7fc50
+R=../src/fa_dataflow_1.vhd|4
+Version=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|965eab90878040eda92bb9ca502f0d0eab7c6161e4feb57b0d51d8ffbb8b9df7
+Version/dataflow_1=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|cb49a6f30d36b54e6c37d39eae064405efc7f9cf7bc2314b486d47ba74b0e2d0f061f447882972ce13ca988c0175ea65
+
+[fa_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/fa_TB.vhd|10|1*44782
+BinW64/tb_architecture=3*7415
+I=0*2386
+I/tb_architecture=I/TB_ARCHITECTURE 0*20451
+M=11|2|vf5|1728391787142|../src/TestBench/fa_TB.vhd|0*2112*0x25cc8cacc3df521cd29473d3de22860182e9973d|0*2301*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vf5|1728393815519|../src/TestBench/fa_TB.vhd|0*16969*0x3f4470f63bf74657c64e9e0892a7bee381fc3c0c|0*18008*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/fa_TB.vhd|7
+Version=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|5d030e888d24b2814081a0420d61930371d962b20b4acf5ffd9cd1c698f1ff00
+Version/tb_architecture=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beab28721506478b900bbf32eb118c5e31d
+
+[testbench_for_fa]
+Configures=fa_tb.TB_ARCHITECTURE
+E=1*46581
+I=0*20736
+M=2|2|vf5|1728393815526|../src/TestBench/fa_TB.vhd|0*16467*0xea0de89aa180e096860284305e18dd529800f499|0*16713*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/fa_TB.vhd|75
+Version=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5fa9e1c59548a2e357c24a4f6241e1323b465ecdf1af524b2e95e20d79b09bec3
+
+[~U]
+fa=FA 11|0*0|
+fa_tb=11|0*1996|
+testbench_for_fa=TESTBENCH_FOR_fa 2||
+

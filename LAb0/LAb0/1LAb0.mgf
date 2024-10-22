@@ -1,0 +1,25 @@
+V 000051 55 747           1725973455960 dataflow_1
+(_unit VHDL(fa 0 4(dataflow_1 0 14))
+	(_version vf5)
+	(_time 1725973455961 2024.09.10 09:04:15)
+	(_source(\../src/fa1_dataflow.vhd\))
+	(_parameters tan)
+	(_code 41114643411613574146571b114747474047474740)
+	(_ent
+		(_time 1725973455958)
+	)
+	(_object
+		(_port(_int A -1 0 6(_ent(_in))))
+		(_port(_int B -1 0 7(_ent(_in))))
+		(_port(_int Cin -1 0 8(_ent(_in))))
+		(_port(_int Sum -1 0 9(_ent(_out))))
+		(_port(_int Cout -1 0 10(_ent(_out))))
+		(_prcs
+			(line__16(_arch 0 0 16(_assignment(_trgt(3))(_sens(0)(1)(2)))))
+			(line__17(_arch 1 0 17(_assignment(_trgt(4))(_sens(0)(1)(2)))))
+		)
+		(_type(_ext ieee.std_logic_1164.STD_LOGIC(0 STD_LOGIC)))
+	)
+	(_use(ieee(std_logic_1164))(std(standard)))
+	(_model . dataflow_1 2 -1)
+)

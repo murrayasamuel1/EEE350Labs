@@ -1,0 +1,88 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=lab0
+[Library]
+Lab1=.\Lab1\Lab1.lib
+lab0=.\Lab1\lab0.LIB
+[$LibMap$]
+Lab1=.
+Active_lib=
+lab0=.
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=NONE
+REFRESH_FLOW=1
+FAMILY=
+fileopenfolder=C:\My_Designs\EEE350\Lab1\src
+[Files]
+/two_sigs.vhd=-1
+/coding_bugs.vhd=-1
+/combo_circuit.vhd=-1
+/text_case.do=-1
+/Q7.asdb=-1
+/Q7.awc=-1
+/counter.vhd=-1
+/text_case2.do=-1
+/U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Combo_logic.asdb=-1
+/U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Combo_logic.awc=-1
+/U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Counter.asdb=-1
+/U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Counter.awc=-1
+[Files.Data]
+.\src\two_sigs.vhd=VHDL Source Code
+.\src\coding_bugs.vhd=VHDL Source Code
+.\src\combo_circuit.vhd=VHDL Source Code
+.\src\text_case.do=Macro
+.\src\Q7.asdb=Accelerated Waveform File
+.\src\Q7.awc=Accelerated Waveform Configuration
+.\src\counter.vhd=VHDL Source Code
+.\src\text_case2.do=Macro
+U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Combo_logic.asdb=Accelerated Waveform File
+U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Combo_logic.awc=Accelerated Waveform Configuration
+U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Counter.asdb=Accelerated Waveform File
+U:\EEE350\EEE351_LAB1_Murray_Shirritt_Wooltorton\Counter.awc=Accelerated Waveform Configuration
+[folders]
+name0=ALINT-PRO Workspaces
+directory0=C:\My_Designs\EEE350\Lab1\
+extension0=alintws
+name1=Coverage Databases
+directory1=C:\My_Designs\EEE350\Lab1\
+extension1=acdb
+name2=Dll Libraries
+directory2=C:\My_Designs\EEE350\Lab1\
+extension2=dll
+name3=Event Lists
+directory3=C:\My_Designs\EEE350\Lab1\
+extension3=lst
+name4=HTML Files
+directory4=C:\My_Designs\EEE350\Lab1\
+extension4=htm;html
+name5=Log Files
+directory5=C:\My_Designs\EEE350\Lab1\
+extension5=log;htm;xml;txt
+name6=Matlab/Simulink Files
+directory6=C:\My_Designs\EEE350\
+extension6=m;mdl;slx
+name7=Memory Files
+directory7=C:\My_Designs\EEE350\Lab1\
+extension7=mem;mif;hex
+name8=PDF Files
+directory8=C:\My_Designs\EEE350\Lab1\
+extension8=pdf
+name9=Profiler Databases
+directory9=C:\My_Designs\EEE350\Lab1\
+extension9=tbp
+name10=Script Files
+directory10=C:\My_Designs\EEE350\Lab1\
+extension10=do;tcl;pl
+name11=Waveform Files
+directory11=C:\My_Designs\EEE350\Lab1\
+extension11=asdb;awc;asdbc;asdbe
+[HierarchyViewer]
+HierarchyInformation=combo_logic|arch1|0 counter|arch1|0
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,70 @@
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0017: mux41.vhd : (2, 9): Point expected.
+# Error: COMP96_0015: mux41.vhd : (2, 9): ';' expected.
+# Error: COMP96_0016: mux41.vhd : (2, 10): Design unit declaration expected.
+# Error: COMP96_0016: mux41.vhd : (2, 24): Design unit declaration expected.
+# Error: COMP96_0017: mux41.vhd : (3, 9): Point expected.
+# Error: COMP96_0015: mux41.vhd : (3, 9): ';' expected.
+# Error: COMP96_0016: mux41.vhd : (3, 10): Design unit declaration expected.
+# Error: COMP96_0016: mux41.vhd : (3, 21): Design unit declaration expected.
+# Error: COMP96_0015: mux41.vhd : (7, 2): ';' expected.
+# Error: COMP96_0015: mux41.vhd : (9, 14): ':' expected.
+# Error: COMP96_0018: mux41.vhd : (9, 14): Identifier expected.
+# Error: COMP96_0016: mux41.vhd : (9, 17): Design unit declaration expected.
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 15 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0015: mux41.vhd : (7, 2): ';' expected.
+# Error: COMP96_0015: mux41.vhd : (9, 14): ':' expected.
+# Error: COMP96_0018: mux41.vhd : (9, 14): Identifier expected.
+# Error: COMP96_0016: mux41.vhd : (9, 17): Design unit declaration expected.
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0015: mux41.vhd : (9, 14): ':' expected.
+# Error: COMP96_0018: mux41.vhd : (9, 14): Identifier expected.
+# Error: COMP96_0016: mux41.vhd : (9, 17): Design unit declaration expected.
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0018: mux41.vhd : (11, 1): Identifier expected.
+# Error: COMP96_0015: mux41.vhd : (11, 1): ')' expected.
+# Error: COMP96_0015: mux41.vhd : (11, 1): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (11, 5): Keyword 'end' expected.
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Compile Entity "mux"
+# Compile Architecture "muxVerstappen" of Entity "mux"
+# Error: COMP96_0015: mux41.vhd : (19, 9): ';' expected.
+# Error: COMP96_0019: mux41.vhd : (19, 9): Keyword 'end' expected.
+# Error: COMP96_0016: mux41.vhd : (19, 14): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Lab3 -2002  $dsn/src/mux41.vhd
+# Co

@@ -1,0 +1,24 @@
+timestamp=1729604282783
+
+[~A]
+ModifyID=3
+Version=74
+
+[~MFT]
+0=11|0Lab3.mgf|2411|1239
+1=1|1Lab3.mgf|0|0
+3=1|3Lab3.mgf|0|0
+
+[mux]
+A/muxverstappen=A/muxVerstappen 21|../src/mux41.vhd|14|1*0
+BinW64/muxverstappen=3*0
+I=0*1841
+I/muxverstappen=I/muxVerstappen 0*2411
+M=11|2|vf5|1729604282759|../src/mux41.vhd|0*1458*0xae1c4d84cc3b7f4d051e31fbc49fcee2ff760516|0*1768*0x23b75c12e3e89f2ef000564498faa8c2
+M/muxverstappen=M/muxVerstappen 21|2|vf5|1729604282761|../src/mux41.vhd|0*2076*0xc9d1e949afbb8777f63900541efa9124a487adf9|0*2321*0x20116f55b147878295aeff36dce7fc50
+R=../src/mux41.vhd|5
+Version=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|97262232024e18459c438da5de39699b413b3e6eab5b8b003abd733a7c9af59e
+Version/muxverstappen=15.0.260.9131 (Windows64)|00000003789cd3f5370600015b00b0|5355917d5246cd44208353078bea98bc6c7813cca449911b7c5d241db02d53279a7aaafdd60841f100265c293b7a3117
+
+[~U]
+mux=11|0*1239|

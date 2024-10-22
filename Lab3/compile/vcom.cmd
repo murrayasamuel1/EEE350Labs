@@ -1,0 +1,1 @@
+-w -d C:/My_Designs/EEE350/Lab3/compile -s C:/My_Designs/EEE350/library.cfg -j C:/My_Designs/EEE350/Lab3/projlib.cfg -work Lab3 -O3 -e 100 -work Lab3 -2002 C:/My_Designs/EEE350/Lab3/src/mux41.vhd 

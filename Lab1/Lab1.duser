@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<design-settings>
+	<plugins>
+		<Aldec.Stimuli.1>
+			<hierarchy activeStimuliSetName="StimuliSet23">
+				<stimuliSet name="StimuliSet1">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet2">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet3">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet4">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet5">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet6">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="50ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet7">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="50ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet8">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="50ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet9">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="100ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet10">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="50ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet11">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="clock">
+						<stimulus_data>
+							<period value="50ns"/>
+							<low_value value="0"/>
+							<high_value value="1"/>
+							<starting_value value="low"/>
+							<duty_cycle value="50.000000"/>
+							<offset value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<frequency_jitter value="0fs" enabled="false"/>
+							<phase_jitter value="0fs" enabled="false"/>
+						</stimulus_data>
+						<signals>
+							<signal path="/two_sigs/A"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet12">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet13">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet14">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet15">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet16">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet17">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet18">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet19">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/D"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus2" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="&apos;1&apos;" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/rst"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus3" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/load"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus4" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/count"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet20">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/D"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus2" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="&apos;1&apos;" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/rst"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus3" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/load"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus4" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/count"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet21">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0000" time="40ns"/>
+								<entry value="0001" time="60ns"/>
+								<entry value="0010" time="80ns"/>
+								<entry value="&quot;0011&quot;" time="100ns"/>
+								<entry value="0100" time="120ns"/>
+								<entry value="0101" time="140ns"/>
+								<entry value="0110" time="160ns"/>
+								<entry value="0111" time="180ns"/>
+								<entry value="1000" time="200ns"/>
+								<entry value="1001" time="220ns"/>
+								<entry value="1010" time="240ns"/>
+								<entry value="1011" time="260ns"/>
+								<entry value="1100" time="280ns"/>
+								<entry value="1101" time="300ns"/>
+								<entry value="1110" time="320ns"/>
+								<entry value="1111" time="340ns"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/combo_logic/D"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet22">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/D"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus3" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="100ns"/>
+								<entry value="0" time="101ns"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/load"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus4" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="200ns"/>
+								<entry value="0" time="250ns"/>
+								<entry value="1" time="300ns"/>
+								<entry value="0" time="350ns"/>
+								<entry value="1" time="400ns"/>
+								<entry value="0" time="450ns"/>
+								<entry value="1" time="500ns"/>
+								<entry value="0" time="550ns"/>
+								<entry value="1" time="600ns"/>
+								<entry value="0" time="650ns"/>
+								<entry value="1" time="700ns"/>
+								<entry value="0" time="750ns"/>
+								<entry value="1" time="800ns"/>
+								<entry value="0" time="850ns"/>
+								<entry value="1" time="900ns"/>
+								<entry value="0" time="950ns"/>
+								<entry value="1" time="1us"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/count"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus5" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="1060ns"/>
+								<entry value="1" time="1080ps"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/rst"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus2" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="50ns"/>
+								<entry value="0" time="100ns"/>
+								<entry value="1" time="150ns"/>
+								<entry value="0" time="200ns"/>
+								<entry value="1" time="250ns"/>
+								<entry value="0" time="300ns"/>
+								<entry value="1" time="350ns"/>
+								<entry value="0" time="400ns"/>
+								<entry value="1" time="450ns"/>
+								<entry value="0" time="500ns"/>
+								<entry value="1" time="550ns"/>
+								<entry value="0" time="600ns"/>
+								<entry value="1" time="650ns"/>
+								<entry value="0" time="700ns"/>
+								<entry value="1" time="750ns"/>
+								<entry value="0" time="800ns"/>
+								<entry value="1" time="850ns"/>
+								<entry value="0" time="900ns"/>
+								<entry value="1" time="950ns"/>
+								<entry value="0" time="1us"/>
+								<entry value="1" time="1050ns"/>
+								<entry value="0" time="1100ns"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/clk"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+				<stimuliSet name="StimuliSet23">
+					<stimulus name="Stimulus1" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="000" time="0fs"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/D"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus3" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="100ns"/>
+								<entry value="0" time="101ns"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/load"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus4" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="200ns"/>
+								<entry value="0" time="250ns"/>
+								<entry value="1" time="300ns"/>
+								<entry value="0" time="350ns"/>
+								<entry value="1" time="400ns"/>
+								<entry value="0" time="450ns"/>
+								<entry value="1" time="500ns"/>
+								<entry value="0" time="550ns"/>
+								<entry value="1" time="600ns"/>
+								<entry value="0" time="650ns"/>
+								<entry value="1" time="700ns"/>
+								<entry value="0" time="750ns"/>
+								<entry value="1" time="800ns"/>
+								<entry value="0" time="850ns"/>
+								<entry value="1" time="900ns"/>
+								<entry value="0" time="950ns"/>
+								<entry value="1" time="1us"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/count"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus5" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="1060ns"/>
+								<entry value="1" time="1080ps"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/rst"/>
+						</signals>
+					</stimulus>
+					<stimulus name="Stimulus2" strength="default" enabled="true" type="formula">
+						<stimulus_data>
+							<repeat_time value="0fs" enabled="false"/>
+							<cancel_time value="0fs" enabled="false"/>
+							<entries>
+								<entry value="0" time="0fs"/>
+								<entry value="1" time="50ns"/>
+								<entry value="0" time="100ns"/>
+								<entry value="1" time="150ns"/>
+								<entry value="0" time="200ns"/>
+								<entry value="1" time="250ns"/>
+								<entry value="0" time="300ns"/>
+								<entry value="1" time="350ns"/>
+								<entry value="0" time="400ns"/>
+								<entry value="1" time="450ns"/>
+								<entry value="0" time="500ns"/>
+								<entry value="1" time="550ns"/>
+								<entry value="0" time="600ns"/>
+								<entry value="1" time="650ns"/>
+								<entry value="0" time="700ns"/>
+								<entry value="1" time="750ns"/>
+								<entry value="0" time="800ns"/>
+								<entry value="1" time="850ns"/>
+								<entry value="0" time="900ns"/>
+								<entry value="1" time="950ns"/>
+								<entry value="0" time="1us"/>
+								<entry value="1" time="1050ns"/>
+								<entry value="0" time="1100ns"/>
+							</entries>
+						</stimulus_data>
+						<signals>
+							<signal path="/counter/clk"/>
+						</signals>
+					</stimulus>
+				</stimuliSet>
+			</hierarchy>
+		</Aldec.Stimuli.1>
+	</plugins>
+</design-settings>

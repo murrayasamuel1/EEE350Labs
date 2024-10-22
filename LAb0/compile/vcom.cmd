@@ -1,0 +1,1 @@
+-w -d c:/My_Designs/EEE350/LAb0/compile -s c:/My_Designs/EEE350/library.cfg -j c:/My_Designs/EEE350/LAb0/projlib.cfg -work LAb0 -reorder -O3 -e 100 -work LAb0 -2002 c:/My_Designs/EEE350/LAb0/src/fa1_dataflow.vhd 

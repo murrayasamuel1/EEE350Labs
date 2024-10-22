@@ -1,0 +1,1 @@
+-w -d C:/My_Designs/EEE350/Lab2/compile -s C:/My_Designs/EEE350/library.cfg -j C:/My_Designs/EEE350/Lab2/projlib.cfg -work Lab2 -O3 -e 100 -work Lab2 -2002 C:/My_Designs/EEE350/Lab2/src/TestBench/fa_TB.vhd 
